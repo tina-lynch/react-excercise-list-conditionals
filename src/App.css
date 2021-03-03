@@ -1,0 +1,17 @@
+p{
+  font-size: 14px;
+}
+.App {
+  margin: 16px;
+}
+.Char {
+   padding: 16px; margin: 16px; border: 1px solid #17858d;
+   background-color: #e9fefc;
+   color: #17858d;
+   font-size: 24px;
+}
+.flex {
+  display:flex;width: 90%;
+  margin: auto;
+  flex-flow: wrap;
+}
